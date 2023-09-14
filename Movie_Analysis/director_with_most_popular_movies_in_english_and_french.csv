@@ -1,0 +1,2 @@
+person_name,language_name,movie_count,sum(movie.popularity)
+" Ivan Vorlu00edu010dek",English,2,41.490104
