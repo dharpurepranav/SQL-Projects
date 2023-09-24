@@ -14,7 +14,6 @@ This project focuses on analyzing data from a fictional music store. The dataset
 
 ### Project Structure:
 - `music_store_data.sql`: SQL queries for data extraction, transformation, and analysis.
-- `music_store_data_visualizations.sql`: SQL queries for generating charts and visualizations (optional).
 - `music_store_data_analysis_report.pdf`: A report summarizing the key findings and insights.
 
 ------------------------------------------------------------------------------------------------------------
@@ -31,7 +30,6 @@ This project involves the analysis of a movie dataset containing information abo
 
 ### Project Structure:
 - `movie_data.sql`: SQL queries for data analysis.
-- `movie_data_visualizations.sql`: SQL queries for creating visual representations of the data (optional).
 - `movie_data_analysis_report.pdf`: A comprehensive report detailing the findings and insights from the analysis.
 
 -----------------------------------------------------------------------------------------------------------------
