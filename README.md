@@ -34,6 +34,38 @@ This project involves the analysis of a movie dataset containing information abo
 
 -----------------------------------------------------------------------------------------------------------------
 
+## Walmart Sales Analysis
+
+### Description:
+This project involves the analysis of Walmart sales data to uncover key sales trends and patterns. By applying SQL queries, we extract valuable business insights that help in optimizing inventory and sales strategies. Key aspects of this project include:
+
+- Identifying the most profitable times of day for sales.
+- Analyzing revenue distribution by month and city.
+- Determining the most common payment methods and customer demographics.
+- Understanding top-performing product lines and regional sales performance.
+
+### Project Structure:
+- 'WalmartSalesData.csv': Walmart Sales data.
+- 'walmart_sales.sql': SQL queries for data analysis.
+- 'walmart_sales_analysis_report.pdf': A comprehensive report detailing the findings and insights from the analysis.
+
+----------------------------------------------------------------------------------------------------------------------
+
+## Retail Order Sales Analysis
+
+### Description:
+This project involves the analysis of retail order sales data to gain insights into sales performance and customer behavior. By applying SQL queries, we identify key trends and metrics to improve sales strategies and operational efficiency. Key aspects of this project include:
+
+- Analyzing sales performance by product and category.
+- Identifying top-selling products and customer segments.
+- Examining order patterns and seasonal trends.
+- Correlating customer demographics with purchase behavior.
+
+## Project Structure:
+- 'retail_order_sales_analysis.sql': SQL queries for data analysis.
+
+--------------------------------------------------------------------------------------------------------------------------
+
 Feel free to explore each project's folder for the SQL scripts and reports associated with the analyses. If you have any questions or feedback, please don't hesitate to reach out.
 
 Happy data analysis!
